@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: looprai-train
-Version: 1.0.0
+Version: 1.0.3
 Summary: A sample Python project for LOOPR AI
 License: MIT
-Requires-Python: ==3.9
+Requires-Python: >=3.9
 License-File: LICENSE.txt
 
 A sample Python project for LOOPR AI
