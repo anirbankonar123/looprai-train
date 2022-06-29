@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/looprai_train/LooprTrainInterface.py
+src/looprai_train/__init__.py
+src/looprai_train.egg-info/PKG-INFO
+src/looprai_train.egg-info/SOURCES.txt
+src/looprai_train.egg-info/dependency_links.txt
+src/looprai_train.egg-info/requires.txt
+src/looprai_train.egg-info/top_level.txt
